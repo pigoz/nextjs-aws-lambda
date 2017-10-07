@@ -1,3 +1,4 @@
 {
-  "profile": "gromia-lambda"
+  "profile": "gromia-lambda",
+  "regions": ["eu-central-1"]
 }
