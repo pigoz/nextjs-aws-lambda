@@ -1,0 +1,7 @@
+{
+  "name": "nextjs-aws-lambda",
+  "version": "0.0.1",
+  "description": "nextjs + aws lambda test",
+  "main": "index.js",
+  "license": "MIT"
+}
