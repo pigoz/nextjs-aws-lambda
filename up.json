@@ -1,4 +1,7 @@
 {
   "profile": "gromia-lambda",
-  "regions": ["eu-central-1"]
+  "regions": ["eu-central-1"],
+  "hooks": {
+    "build": "yarn build"
+  }
 }
